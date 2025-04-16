@@ -1,7 +1,86 @@
-{
-  "id": 11,
-  "first_name": "Farino",
-  "last_name": "Joshua",
-  "email": "farino@example.com",
-  "gender": "Male"
-}
+[
+  {
+    "id": 1,
+    "first_name": "Farino",
+    "last_name": "Joshua",
+    "email": "ddemico0@yandex.ru",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Hermione",
+    "last_name": "Copnell",
+    "email": "hcopnell1@umich.edu",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "first_name": "Alexia",
+    "last_name": "Heaney`",
+    "email": "aheaney2@flavors.me",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Gwenette",
+    "last_name": "Brooke",
+    "email": "gbrooke3@blinklist.com",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Jimmie",
+    "last_name": "Schimpke",
+    "email": "jschimpke4@hexun.com",
+    "gender": "Male"
+  },
+  {
+    "id": 6,
+    "first_name": "Dottie",
+    "last_name": "Kingsford",
+    "email": "dkingsford5@cbc.ca",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "first_name": "Britt",
+    "last_name": "MacDougal",
+    "email": "bmacdougal6@parallels.com",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "first_name": "Garvy",
+    "last_name": "Ausiello",
+    "email": "gausiello7@51.la",
+    "gender": "Genderfluid"
+  },
+  {
+    "id": 9,
+    "first_name": "Stearne",
+    "last_name": "McGrotty",
+    "email": "smcgrotty8@parallels.com",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "first_name": "Robb",
+    "last_name": "Sasser",
+    "email": "rsasser9@buzzfeed.com",
+    "gender": "Male"
+  },
+  {
+    "id": 11,
+    "first_name": "Hermie",
+    "last_name": "Filipychev",
+    "email": "hfilipycheva@furl.net",
+    "gender": "Male"
+  },
+  {
+    "id": 12,
+    "first_name": "Yule",
+    "last_name": "Pinsent",
+    "email": "ypinsentb@npr.org",
+    "gender": "Agender"
+  }
+]

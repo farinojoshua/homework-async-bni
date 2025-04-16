@@ -1,6 +1,6 @@
 const userDB = {
-  username: "farino",
-  password: "123",
+  username: "joko",
+  password: "rahasia",
   role: "admin",
 };
 
@@ -30,7 +30,7 @@ function getMenu(role, callback) {
   }, 500);
 }
 
-loginUser("farino", "123", function (user) {
+loginUser("joko", "rahasia", function (user) {
   getRole(user, function (role) {
     getMenu(role, function (hello) {
       console.log(hello);
