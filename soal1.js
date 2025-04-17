@@ -10,7 +10,7 @@ function loginUser(inputUsername, inputPassword, callback) {
     if (inputUsername === user.username && inputPassword === user.password) {
       callback(user);
     } else {
-      console.log("error");
+      console.log("username atau password salah");
     }
   }, 500);
 }
@@ -34,8 +34,8 @@ function getMenu(role, callback) {
 
 loginUser("joko", "rahasia", function (user) {
   getRole(user, function (role) {
-    getMenu(role, function (hello) {
-      console.log(hello);
+    getMenu(role, function (text) {
+      console.log(text);
     });
   });
 });
