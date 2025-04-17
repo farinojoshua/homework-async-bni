@@ -9,6 +9,8 @@ function loginUser(inputUsername, inputPassword, callback) {
     let user = userDB;
     if (inputUsername === user.username && inputPassword === user.password) {
       callback(user);
+    } else {
+      console.log("error");
     }
   }, 500);
 }
